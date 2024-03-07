@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Tabela"
+        android:icon="@drawable/ic_baseline_Tabela_24"
+        android:title="Tabela" />
+    <item
+        android:id="@+id/Cronograma"
+        android:icon="@drawable/ic_baseline_cronograma_24"
+        android:title="Cronograma" />
+    <item
+        android:id="@+id/Noticias"
+        android:icon="@drawable/ic_baseline_noticias_24"
+        android:title="Noticias" />
+    <item
+        android:id="@+id/Times"
+        android:icon="@drawable/ic_baseline_times_24"
+        android:title="Times" />
+    <item
+        android:id="@+id/Jogadores"
+        android:icon="@drawable/ic_baseline_jogadores_24"
+        android:title="Jogadores" />
+</menu>
